@@ -1,0 +1,45 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**NOTIFICATION ROLES**",
+      "color": 52479,
+      "fields": [
+        {
+          "name": ":bell:Notifications",
+          "value": " ➤ React to get pinged for all the notifications and important messages of the server.\n⠀"
+        },
+        {
+          "name": "<:WumpusGift:777174036986986546> Giveaways",
+          "value": " ➤ React to get pinged for all the giveaways in the server\n⠀"
+        },
+        {
+          "name": "<a:WumpusHypesquad:777176150844899329> Events",
+          "value": " ➤ React to get pinged for all the fun events in the server\n⠀"
+        },
+        {
+          "name": "<:BallotBox:777183868326641674> Server Polls",
+          "value": " ➤ React to get pinged for all the polls in the server\n⠀"
+        },
+        {
+          "name": "Reactions don't work?",
+          "value": "Please notify a <@&770839112764096563> or a <@&775480741496750151> if you are not receiving your roles. \n\n"
+        }
+      ],
+      "author": {
+        "name": "Desi Dhaba ",
+        "icon_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+      },
+      "footer": {
+        "text": "Desi Dhaba ",
+        "icon_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+      },
+      "timestamp": "2020-11-14T14:53:00.000Z",
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+      }
+    }
+  ],
+  "username": "Desi Dhaba ",
+  "avatar_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+}
